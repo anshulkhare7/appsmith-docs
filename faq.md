@@ -10,7 +10,7 @@ You can use Appsmith to build custom forms, dashboards & workflows. Tools like c
 
 ## How is Appsmith different from other app builders?
 
-Appsmith is the first open-source visual framework for building internal tools. Appsmith makes building internal tool building easy, by giving you building blocks \(widgets, APIs, Queries\) which you can configure and connect together while the framework does most of the heavy lifting. Appsmith is the first open-source visual framework for building internal tools. We make building internal tool building easy by giving you building blocks \(widgets, APIs, Queries\) which you can configure and connect together while the framework does most of the heavy lifting
+Appsmith is the first open-source visual framework for building internal tools. Appsmith makes building internal tool easy, by giving you building blocks \(widgets, APIs, Queries\) which you can configure and connect together while the framework does most of the heavy lifting.
 
 ## Can I write code in Appsmith?
 
